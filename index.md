@@ -10,6 +10,7 @@
 | Contact Me    | <a href="#contact">Contact Me</a>                                                                                |
 | Free Use Info | <a href="https://drive.google.com/file/d/1wd-lERB3CCJTdWoeL6NnNKwNVqZQfj9O/view?usp=drive_link">See Document</a> |
 # About Guru Ligma {#about}
+![site logo](index.html_files/SbrW9SZqdudnev5NodTI--2--a5zfo.jpg, "stie logo")
 ## About Me {#about-profile}
 I am Justin Rose AKA Guru Ligma, and I am a AI Artist, just starting out. Using a site called NightCafe, located <a href="https://creator.nightcafe.studio/">here</a>, I create art pieces with whatever comes to mind. If you like my art show on the example page, consider checking out my other work on my social media pages that can be found <a href="https://linkin.bio/guru-ligma">Here</a>, or even support me on <a href="https://www.patreon.com/user?u=97883667">Patreon!</a>
 ## Background {#about-background}
