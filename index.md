@@ -1,14 +1,14 @@
 #Guru Ligma - AI Art - Homepage {#title}
 ## Site Links {#site-links}
-| Location      | Link                                                   |
-| :------------ | :----------------------------------------------------- |
-| About Me      | <a href="#about">About Me</a>                          |
-| Thanks        | <a href="#thanks">Thanks</a>                           |
-| Examples      | <a href="#examples">Examples</a>                       |
-| Ordering Info | <a href="#ordering">Order</a>                          |
-| Social Medias | <a href="https://linkin.bio/guru-ligma">linkin.bio</a> |
-| Contact Me    | <a href="#contact">Contact Me</a>                      |
-| Free Use Info | <a href="[https://rb.gy/4jips](https://drive.google.com/file/d/1wd-lERB3CCJTdWoeL6NnNKwNVqZQfj9O/view?usp=drive_link)">See Document</a>         |
+| Location      | Link                                                                                                             |
+| :------------ | :--------------------------------------------------------------------------------------------------------------- |
+| About Me      | <a href="#about">About Me</a>                                                                                    |
+| Thanks        | <a href="#thanks">Thanks</a>                                                                                     |
+| Examples      | <a href="#examples">Examples</a>                                                                                 |
+| Ordering Info | <a href="#ordering">Order</a>                                                                                    |
+| Social Medias | <a href="https://linkin.bio/guru-ligma">linkin.bio</a>                                                           |
+| Contact Me    | <a href="#contact">Contact Me</a>                                                                                |
+| Free Use Info | <a href="https://drive.google.com/file/d/1wd-lERB3CCJTdWoeL6NnNKwNVqZQfj9O/view?usp=drive_link">See Document</a> |
 # About Guru Ligma {#about}
 ## About Me {#about-profile}
 I am Justin Rose AKA Guru Ligma, and I am a AI Artist, just starting out. Using a site called NightCafe, located <a href="https://creator.nightcafe.studio/">here</a>, I create art pieces with whatever comes to mind. If you like my art show on the example page, consider checking out my other work on my social media pages that can be found <a href="https://linkin.bio/guru-ligma">Here</a>, or even support me on <a href="https://www.patreon.com/user?u=97883667">Patreon!</a>
