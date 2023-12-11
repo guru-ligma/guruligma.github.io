@@ -5,6 +5,7 @@
 img {
   display: block;
   margin: auto;
+  width: 600px
 }
 .markdown-body {
   -webkit-text-size-adjust: 100%;
