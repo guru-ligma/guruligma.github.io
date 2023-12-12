@@ -1,14 +1,13 @@
+img {
+  display: block;
+  margin: auto;
+  width: 800px;
+}
 
 .site-image {
   width: 500px;
   display: block;
   margin: auto;
-}
-
-img {
-  display: block;
-  margin: auto;
-  width: 800px;
 }
 
 .subtitle-linebreak {
