@@ -1,0 +1,25 @@
+img {
+  display: block;
+  margin: auto;
+  width: 800px;
+}
+
+.site-image img {
+  width: 500px;
+  display: block;
+  margin: auto;
+}
+
+.subtitle-linebreak {
+  lines-spacing: 100px
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border: 1px solid;
+}
+
+.markdown-body td,
+.markdown-body th {
+  border: 1px solid;
+}
