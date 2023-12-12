@@ -78,12 +78,12 @@ img {
 
 .markdown-body table {
   border-collapse: collapse;
-  border-spacing: 0;
+  border: 1px solid;
 }
 
 .markdown-body td,
 .markdown-body th {
-  padding: 0;
+  border: 1px solid;
 }
 
 .markdown-body * {
