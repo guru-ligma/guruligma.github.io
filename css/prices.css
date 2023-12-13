@@ -31,10 +31,6 @@
   margin: 0.67em 0;
 }
 
-.markdown-body img {
-  border: 0;
-}
-
 .markdown-body hr {
   box-sizing: content-box;
   height: 0;
