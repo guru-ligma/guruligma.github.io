@@ -12,7 +12,17 @@ img {
 }
 
 .subtitle-linebreak {
-  lines-spacing: 100px
+    line-height: 200%;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border: 1px solid;
+}
+
+.markdown-body td,
+.markdown-body th {
+  border: 1px solid;
 }
 
 .markdown-body table {

@@ -65,17 +65,6 @@
   box-sizing: border-box;
   padding: 0;
 }
-
-.markdown-body table {
-  border-collapse: collapse;
-  border: 1px solid;
-}
-
-.markdown-body td,
-.markdown-body th {
-  border: 1px solid;
-}
-
 .markdown-body * {
   box-sizing: border-box;
 }
