@@ -16,10 +16,6 @@ hr {
   margin: auto;
 }
 
-.subtitle-linebreak {
-    line-height: 200%;
-}
-
 .markdown-body table {
   border-collapse: collapse;
   border: 1px solid;
