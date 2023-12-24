@@ -11,6 +11,11 @@ hr {
 }
 
 .catalogue {
+    display: block;
+    margin: auto;
+}
+
+.catalogue img{
     width: 400px;
     display: block;
     margin: auto;
