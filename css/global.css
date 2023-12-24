@@ -10,6 +10,11 @@ hr {
     color: #333;
 }
 
+.catalog-text {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .catalogue {
     width: 400px;
     display: block;
