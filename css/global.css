@@ -10,47 +10,44 @@ hr {
     color: #333;
 }
 
+.catalogue {
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
 .site-image {
   width: 500px;
   display: block;
   margin: auto;
 }
 
+.markdown-body tr,
 .markdown-body table {
+  border: 2px solid black;
   border-collapse: collapse;
-  border: 1px solid;
   width: 100%;
   align-content: center;
+  border-style: groove;
 }
 
-.markdown-body td,
-.markdown-body th {
-  border: 1px solid;
-}
-
-.markdown-body table {
+.markdown-body th, 
+.markdown-body td {
+  border: 2px solid black;
   border-collapse: collapse;
-  border: 1px solid;
   width: 100%;
   align-content: center;
-}
-
-.markdown-body td,
-.markdown-body th {
-  border: 1px solid;
+  border-style: groove;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .markdown-body {
-    box-sizing: border-box;
-    min-width: 400px;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 45px;
-}
-
-.markdown-body tr {
-    width: 100%;
-    align-content: center;
+  box-sizing: border-box;
+  min-width: 400px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 45px;
 }
 
 @font-face {
@@ -363,7 +360,6 @@ hr {
 .markdown-body ul,
 .markdown-body ol,
 .markdown-body dl,
-.markdown-body table,
 .markdown-body pre {
   margin-top: 0;
   margin-bottom: 16px;
@@ -415,33 +411,6 @@ hr {
 
 .markdown-body blockquote>:last-child {
   margin-bottom: 0;
-}
-
-.markdown-body table {
-  display: block;
-  width: 100%;
-  overflow: auto;
-  word-break: normal;
-  word-break: keep-all;
-}
-
-.markdown-body table th {
-  font-weight: bold;
-}
-
-.markdown-body table th,
-.markdown-body table td {
-  padding: 6px 13px;
-  border: 1px solid #ddd;
-}
-
-.markdown-body table tr {
-  background-color: #fff;
-  border-top: 1px solid #ccc;
-}
-
-.markdown-body table tr:nth-child(2n) {
-  background-color: #f8f8f8;
 }
 
 .markdown-body img {
