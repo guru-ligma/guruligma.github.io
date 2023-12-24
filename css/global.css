@@ -11,13 +11,7 @@ hr {
 }
 
 .catalogue {
-    width: 300px
-    display: block;
-    margin: auto;
-}
-
-.catalogue img{
-    width: 100px;
+    width: 300px;
     display: block;
     margin: auto;
 }
