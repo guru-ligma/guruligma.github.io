@@ -7,25 +7,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" type="image/png" href="static/site-icon.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <script>
-        window.onload = function() {
-            if (document.querySelector("script[type=\"math/tex; mode=display\"]") !== null) {
-                var mathjax = document.createElement("script");
-                mathjax.src = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML";
-                document.head.appendChild(mathjax);
-            }
-            if (document.getElementsByTagName("code").length !== 0) {
-                var highlight = document.createElement("script");
-                var highlightcss = document.createElement("link");
-                highlight.src = "http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/highlight.min.js";
-                highlightcss.rel = "stylesheet";
-                highlightcss.href = "http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/styles/github.min.css";
-                highlight.onload = function() {hljs.initHighlighting();};
-                document.head.appendChild(highlight);
-                document.head.appendChild(highlightcss);
-            }
-        };
-    </script>
 </head>
 <body>
     <article class="markdown-body">
