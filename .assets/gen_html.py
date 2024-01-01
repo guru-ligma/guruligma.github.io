@@ -18,12 +18,12 @@ for roots, _, files in os.walk("indexed"):
             count = 1
 with open(html_file, "w") as f:
     output = '''
-        <div class="container-lg my-1">
+        <div class="container-lg my-1 text-center">
             <div class="row justify-content-between">'''
     for imgs in z_imgs:
         for img in imgs:
             output = f"""{output}
-                <div class="col-sm-1 col-lg-2 align-items-center">
+                <div class="col-sm-1 col-lg-2 align-items-center mx-2">
                     <img class="img-fluid" src="static/img_catalogue/{img}" alt="{img}">
                     <br/>
                     <p class="text-center fw-light">
