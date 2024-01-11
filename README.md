@@ -1,1 +1,1 @@
-# Code For The Website For Social Media Profile Guru Ligma
+# Code For The Website Of Social Media Profile Guru Ligma
