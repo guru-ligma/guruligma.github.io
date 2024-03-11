@@ -124,13 +124,13 @@ def gen_page_html(pages: PagesStructure) -> int:
     len_pages = len(pages)
     for index, z_img in enumerate(pages):
         output = ""
-        with open("pages-base-0.html") as f:
+        with open("./pages-base-0.html") as f:
             output = f.read()
-        with open("pages-base-1.html") as f:
+        with open("./pages-base-1.html") as f:
             output = f"{output}{index}{f.read()}"
-        with open("pages-base-2.html") as f:
+        with open("./pages-base-2.html") as f:
             output = f"{output}{index}{f.read()}"
-        with open("pages-base-3.html") as f:
+        with open("./pages-base-3.html") as f:
             end = f.read()
         with open(f"catalog-pages/{html_file}-{index}.html", "w") as f:
             output = f"""{output}
