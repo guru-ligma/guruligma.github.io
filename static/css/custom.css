@@ -1,9 +1,9 @@
 .text-light-green {
-    color: #0AD178;
+    color: #0AD178 !important;
 }
 
 .text-dark-green {
-    color: #067a46;
+    color: #067a46 !important;
 }
 
 .button-color {
@@ -19,5 +19,5 @@
 }
 
 .text-primary-custom {
-    color: #1affc8;
+    color: #1affc8 !important;
 }
