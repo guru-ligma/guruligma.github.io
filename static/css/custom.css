@@ -1,15 +1,3 @@
-.text-light-green {
-    color: #00d178;
-}
-
-.text-dark-green {
-    color: #067a46;
-}
-
-.button-color {
-    background-color: #00a85d !important;
-}
-
 .body-bg {
     background-color: #000452;
 }
@@ -18,14 +6,42 @@
     background-color: #005C9e !important;
 }
 
+.side-bar-body-bg {
+    background-color: #0e2a3e !important;
+}
+
+
+.side-bar-title-bg {
+    background-color: #000dff;
+}
+
 .text-primary-custom {
-    color: #1affc8;
+    color: #00c36fb1;
 }
 
 .text-heading-green {
-    color: #00c36f;
+    color: #1affc8bb;
 }
 
 .border-color-custom {
-    border-color: #ffb700 !important;
+    border-color: #ffb700aa !important;
+}
+
+.title-border-color-custom {
+    border-color: #ffb700af !important;
+}
+
+.custom-btn,
+.custom-btn:visited,
+.custom-btn:focus {
+    background-color: #33ccffbb !important;
+    border-color: #0058afbb !important;
+    color: #000336 !important;
+    font-weight: bold;
+}
+
+.custom-btn:hover,
+.custom-btn:active {
+    background-color: #0099cc !important;
+    font-weight: bolder;
 }
